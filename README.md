@@ -8,8 +8,6 @@ I’m a **28-year-old software engineer from Germany 🇩🇪** working on **rea
 
 My daily work ranges from **low-level control software** to **modern web frontends** used to control robotic systems.
 
-> ⚡ *"Best part is no part."*
-
 ---
 
 ## 🧠 What I Work On
